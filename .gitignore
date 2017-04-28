@@ -1,0 +1,21 @@
+
+# Build output files
+out/
+target/
+
+log/
+logs/
+
+*.class
+*.swp
+*.orig
+
+# IDE auto generated files
+*.iml
+.idea/
+
+# Eclipse
+.settings/
+*.project
+*.classpath
+
